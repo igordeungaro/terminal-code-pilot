@@ -112,3 +112,12 @@ If you are working on a project that's related to OpenCode and is using "opencod
 ---
 
 **Join our community** [Discord](https://discord.gg/opencode) | [X.com](https://x.com/opencode)
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [anomalyco/opencode](https://github.com/anomalyco/opencode), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/anomalyco/opencode
